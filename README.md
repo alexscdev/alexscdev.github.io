@@ -1,14 +1,8 @@
-# 👕 Responsive Clothing Landing Page
-## [Watch it on youtube](https://youtu.be/UgE8hcbRVBU)
-### 👕 Responsive Clothing Landing Page 
+# 👕 Landing Page responsiva
 
-- Responsive Clothing Landing Page Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Includes a dark and light mode.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Landing Page responsiva usando HTML CSS & JavaScript
+- Contiene automatizaciones al hacer scroll.
+- Incluye modo claro y oscuro.
+- Scroll suave por secciones.
+- Compatible con todos los dispositivos moviles y con una interfaz de usuario muy buena.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
-![preview img](/preview.png)
