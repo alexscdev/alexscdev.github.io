@@ -1,4 +1,4 @@
-# 👕 Landing Page responsiva
+# 📲 Landing Page responsiva
 
 - Landing Page responsiva usando HTML CSS & JavaScript
 - Contiene automatizaciones al hacer scroll.
